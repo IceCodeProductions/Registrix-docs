@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
   organizationName: 'icecodeproductions', // Usually your GitHub org/user name.
   projectName: 'Registrix-docs', // Usually your repo name.
 
@@ -22,16 +22,12 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl: 'https://github.com/IceCodeProductions/Registrix-docs/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/fIceCodeProductions/Registrix-docs/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -45,8 +41,8 @@ const config = {
       navbar: {
         title: 'Registrix',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Registrix Avatar',
+          src: 'img/registrix-avatar-200.svg',
         },
         items: [
           {
@@ -55,7 +51,11 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            href: 'https://www.registrix.co',
+            label: 'Blog',
+            position: 'right',
+          },
           {
             href: 'https://github.com/IceCodeProductions/Registrix-docs',
             label: 'GitHub',
@@ -97,16 +97,25 @@ const config = {
             items: [
               {
                 label: 'Blog',
-                to: '/blog',
+                href: 'https://blog.registrix.co',
+              },
+              {
+                label: 'About Registrix',
+                href: 'https://www.registrix.co',
+              },
+              {
+                label: 'Registrix Vive',
+                href: 'https://vive.registrix.io',
               },
               {
                 label: 'GitHub',
                 href: 'https://github.com/IceCodeProductions/Registrix-docs',
               },
+             
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Velikom International, LLC. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Velikom International, LLC`,
       },
       prism: {
         theme: lightCodeTheme,
