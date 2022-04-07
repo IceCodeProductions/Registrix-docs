@@ -2,46 +2,26 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Getting Started
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to the Registrix Documentation site.  We are happy to help you make your event a success.
 
 ## Getting Started
 
-Get started by **creating a new site**.
+The site is organized by the type of Mode you are running.  This information you can find in your Customization, Settings left side menu
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
 ### What you'll need
 
-- [Node.js](https://nodejs.org/en/download/) version 14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- Image files from your marketing team.  We recommend PNG or GIF 
+  - use PNG or GIF for transparent backgrounds
+  - use jpg at 80% reduction for background images
+  - save these images locally to your desktop under a folder Registrix on your computer for easy upload access
+  - The max file size is 20MB for background images and 5MB for logos
+  - when uploading images, it is best not be switching tabs
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- Digital Library
+  - You can upload TXT, DOC, DOCX, XLS, XLSX, PPT, PPTX, PDF, PNG, JPG, GIF
+  - It is your responsibility to assure that the file is clear of any virus as Registrix does not perform any virus checking
+  - The max file size is 20MB
+  - when uploading files, it is best not be switching tabs

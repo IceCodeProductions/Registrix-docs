@@ -5,6 +5,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import QuickStartHeader from '@site/src/components/QuickStartHeader';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -33,6 +34,7 @@ export default function Home() {
       description="Documentation, quick start guides for live streaming platform of Registrix">
       <HomepageHeader />
       <main>
+        <QuickStartHeader />
         <HomepageFeatures />
       </main>
     </Layout>
