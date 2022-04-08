@@ -10,7 +10,7 @@ A Group is a collection of **[participants](participant)**.
 
 There are no limit to the amount of groups you can create. 
 
-Groups are assign participants.  
+Any participant is assigned to at least one Group.  
 
 Every Event is then assigned to a Group.  
 

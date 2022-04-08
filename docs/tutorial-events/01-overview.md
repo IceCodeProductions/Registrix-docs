@@ -4,6 +4,6 @@ id: overview
 title: Overview
 ---
 
-# Overview of the Video Page
+# Overview of Managing Events
 
-These directions will be the minimum that you need to setup to get your event live.
+Developing and maintaingin events will be where most of the time is spent on editing.
