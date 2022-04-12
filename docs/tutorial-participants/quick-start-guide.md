@@ -22,7 +22,7 @@ Following the steps below or in the Guides folder to get your Registrix instance
 
 5.) If you had selected eTicketing modes, please see the folder API & Webhook and select your external ticket vender.
 
-6.) Complete the **[Templates for Participants](/tutorial-templates/participant/design)** and the **[Templates for Watch](/tutorial-templates/watch/design)** .
+6.) Complete the **[Templates for Login](/tutorial-templates/login/overview)**  and the **[Templates for Watch](/tutorial-templates/watch/overview)**.
 
 7.) Start **[Managing Events](/tutorial-events/overview)**.
 

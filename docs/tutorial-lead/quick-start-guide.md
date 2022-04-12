@@ -22,7 +22,7 @@ Following the steps below or in the Guides folder to get your Registrix instance
 
 5.) Enter any **[Block Domains](guides/block-domain)** from logging in.
 
-6.) Complete the **[Templates for Login](/tutorial-templates/lead/design)** and the **[Templates for Watch](/tutorial-templates/watch/design)** .
+6.) Complete the **[Templates for Login](/tutorial-templates/login/overview)** and the **[Templates for Watch](/tutorial-templates/watch/overview)**.
 
 7.) Start **[Managing Events](/tutorial-events/overview)**.
 

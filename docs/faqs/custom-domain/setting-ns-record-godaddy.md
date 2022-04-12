@@ -1,8 +1,10 @@
 ---
 sidebar_position: 1
+id: tld-ns-godaddy
+title: NS Record GoDaddy
 ---
 
-# Setting NS Records in Godaddy
+# NS Records in Godaddy
 
 This method is recommended for all newly purchased top level domain names or (TLD).  This will require the lest involvement on your part to configure the site.  After you are done using Registrix, you can reset the NS records back to your server.
 

@@ -33,6 +33,10 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        gtag:{
+          trackingID: 'GTM-NK3KMZM',
+          anonymizeIP: false,
+        }
       }),
     ],
   ],
@@ -97,13 +101,13 @@ const config = {
           },
          
           {
-            href: 'https://www.registrix.co',
+            href: 'https://blog.registrix.co',
             label: 'Blog',
             position: 'right',
           },
           {
-            href: 'https://github.com/IceCodeProductions/Registrix-docs',
-            label: 'GitHub',
+            href: 'https://qr.registrix.io',
+            label: 'QR Generator',
             position: 'right',
           },
         ],
@@ -149,6 +153,10 @@ const config = {
                 href: 'https://vive.registrix.io',
               },
               {
+                label: 'QR Generator',
+                href: 'https://qr.registrix.io',
+              },
+              {
                 label: 'GitHub',
                 href: 'https://github.com/IceCodeProductions/Registrix-docs',
               },
@@ -156,7 +164,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Velikom International, LLC`,
+        copyright: `Copyright © ${new Date().getFullYear()} Velikom International llc`,
       },
       prism: {
         theme: lightCodeTheme,

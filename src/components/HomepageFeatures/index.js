@@ -33,7 +33,7 @@ const FeatureList = [
   {
     title: 'Video Page',
     Svg: require('@site/static/img/homepage/video-page-200.svg').default,
-    tut_url: '/tutorial-video-page/overview',
+    tut_url: '/tutorial-templates/watch/overview',
   },
 ];
 

@@ -22,7 +22,7 @@ Following the steps below or in the Guides folder to get your Registrix instance
 
 5.) Apply the **[Smart Contract](guides/contracts)** to each group.
 
-6.) Complete the **[Templates for Login](/tutorial-templates/participant/design)** and the **[Templates for Watch](/tutorial-templates/watch/design)** .
+6.) Complete the **[Templates for Login](/tutorial-templates/login/overview)** and the **[Templates for Watch](/tutorial-templates/watch/overview)**.
 
 7.) Start **[Managing Events](/tutorial-events/overview)**.
 

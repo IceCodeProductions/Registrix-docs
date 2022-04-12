@@ -4,7 +4,7 @@ id: setup-templates
 title: Setup Templates
 ---
 
-# Setup Templates
+# Setup Email Templates
 
 This step only needs to occur once or when you decide to change what attendee domains are permitted into the system.
 

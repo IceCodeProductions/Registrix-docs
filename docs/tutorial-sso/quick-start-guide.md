@@ -16,9 +16,9 @@ These are the steps for SSO only
 
 2.) Setup the **[Fonts](guides/brand-font)** and **[Icons](guides/brand-font#icons-menu-location)** you want to display.
 
-3.) Configure the  **[SSO](/tutorial-templates/watch/design)** configuration.
+3.) Configure the  **[SSO](guides/sso-config)** configuration.
 
-6.) Complete the **[Templates for Watch](/tutorial-templates/watch/design)**.
+6.) Complete the **[Templates for Watch](/tutorial-templates/watch/overview)**.
 
 7.) Start **[Managing Events](/tutorial-events/overview)**.
 
@@ -33,9 +33,9 @@ These are the steps for SSO only
 
 4.) Set the **[Groups](guides/groups)** that will be assigned to the participants.
 
-5.) Configure the  **[SSO](/tutorial-templates/watch/design)** configuration.
+5.) Configure the  **[SSO](guides/sso-config)** configuration.
 
-6.) Complete the **[Templates for Participants](/tutorial-templates/participant/design)** and the **[Templates for Watch](/tutorial-templates/watch/design)** .
+6.) Complete the **[Templates for Login](/tutorial-templates/login/overview)**  and the **[Templates for Watch](/tutorial-templates/watch/overview)**.
 
 7.) Start **[Managing Events](/tutorial-events/overview)**.
 

@@ -14,7 +14,7 @@ Following the steps below or in the Guides folder to get your Registrix instance
 
 1.) Put the site into the **[Domain](guides/domain-customization)** mode.
 
-2.) Setup the  **[Fonts](guides/brand-font)** and **[Icons](guides/brand-font#icons-menu-location)** you want to display.
+2.) Setup the **[Fonts](guides/brand-font)** and **[Icons](guides/brand-font#icons-menu-location)** you want to display.
 
 3.) Configure the **[Attendee](guides/attendee-option)** options.
 
@@ -24,7 +24,7 @@ Following the steps below or in the Guides folder to get your Registrix instance
 
 6.) Build the  **[Authorize Domains](guides/domains)** that will allow for participant logins.
 
-7.) Complete the **[Templates for Participants](/tutorial-templates/participant/design)** and the **[Templates for Watch](/tutorial-templates/watch/design)** .
+7.) Complete the **[Templates for Login](/tutorial-templates/login/overview)** and the **[Templates for Watch](/tutorial-templates/watch/overview)**.
 
 8.) Start **[Managing Events](/tutorial-events/overview)**.
 
