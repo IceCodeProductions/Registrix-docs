@@ -38,6 +38,11 @@ You can search for an event within the category by typing in title information o
 
 You can edit the event by clicking on the **Gear** icon located into the action column.
 
+When editing any event, on the bottom of the page is a "Default Tab to Display".  This drop down allows you to set which interactive tab that you want to be the main tab to be displayed to the attendee.  
+
+There is also a "Force Refresh" check box.  When you check this item and then click on the **Update** button, any attendee that is currently on that event, their browser will refresh and any updated data will then be displayed.
+
+
 ### Delete
 
 In order to delete the event click on the **Trash Can** icon in the action column.
