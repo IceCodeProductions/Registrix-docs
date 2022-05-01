@@ -14,8 +14,6 @@ From the left side menu, click on **Customization**, then click **Attendee Optio
 
 ## Procedure
 
-The option of **Attendee Analytics** must be enabled prior to any events in order for the heartbeat data to be collected. If you do NOT enable Attendee Analytics there will be no way to capture this data after the event has started. 
-
 Set all values of the site as per the instructions on the Vive page.
 
 When finished be sure to click on the **Update** button.
