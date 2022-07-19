@@ -13,3 +13,6 @@ Confirm that the switches are enabled in the Customization, Attendee Options, ei
 
 **Fix:**
 Confirm that the attendee is part of any of the groups that the event is assigned.  Confirm that the attendee is not part of any of the Geo-location restrictions. To Disable Geo-Location for the event, Click on Events, then manage.  Select the event, open the "Permissions" accordian and set the Geo Location Rules to "No Geo Rules".
+
+**Fix:**
+If you are using Eventbrite or Universe be sure that the event date and times match to the event date times of the ticketing platform.  The ticket date times are used to confirm that the attendee has the rights to the event.
