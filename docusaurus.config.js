@@ -101,12 +101,12 @@ const config = {
           },
          
           {
-            href: 'https://blog.registrix.co',
+            href: 'https://www.registrix.co/blog',
             label: 'Blog',
             position: 'right',
           },
           {
-            href: 'https://qr.registrix.io',
+            href: 'https://qr.registrix.co',
             label: 'QR Generator',
             position: 'right',
           },
@@ -120,7 +120,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/intro',
               },
             ],
           },
@@ -128,12 +128,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
                 label: 'Twitter',
                 href: 'https://twitter.com/registrixvive',
+              },
+              {
+                label: 'Linkedin',
+                href: 'https://linkedin.com/company/registrix',
               },
             ],
           },
@@ -142,7 +142,7 @@ const config = {
             items: [
               {
                 label: 'Blog',
-                href: 'https://blog.registrix.co',
+                href: 'https://www.registrix.co/blog',
               },
               {
                 label: 'About Registrix',
@@ -154,7 +154,7 @@ const config = {
               },
               {
                 label: 'QR Generator',
-                href: 'https://qr.registrix.io',
+                href: 'https://qr.registrix.co',
               },
               {
                 label: 'GitHub',
