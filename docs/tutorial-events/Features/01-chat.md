@@ -6,6 +6,15 @@ title: Chat Source Section
 
 ## Overview
 
+Registrix comes with its own highly scalable chat application called Yatter.  Yatter uses websockets for communication between the clients.
+
+## Yatter Benefits
+
+Yatter comes with Shadow banning, negative word filter, GIFs, Emoji's
+
+
+## Embedding 3rd party
+
 The **Chat Source** section allows you to setup the Chat that will be used in the interactive tab area.
 
 To display the chat to the Attendee app be sure to **Enable Chat** switch.

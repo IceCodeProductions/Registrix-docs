@@ -20,15 +20,15 @@ const FeatureList = [
     tut_url: '/tutorial-domain/quick-start-guide',
   },
   {
-    title: 'NFT Login',
-    Svg: require('@site/static/img/homepage/nft-200.svg').default,
-    tut_url: '/tutorial-nft/quick-start-guide',
-    
-  },
-  {
     title: 'Single Sign On',
     Svg: require('@site/static/img/homepage/sso-200.svg').default,
     tut_url: '/tutorial-sso/quick-start-guide',
+  },
+  {
+    title: 'DSM (Down Stage Monitor)',
+    Svg: require('@site/static/img/homepage/dsm-service.svg').default,
+    tut_url: '/tutorial-dsm/quick-start-guide',
+    
   },
   {
     title: 'Video Page',

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 id: event-title
 title: Title Description Section
 ---
@@ -22,8 +22,14 @@ The **Title** is a required field.
 
 The **Event Description** uses a text editor and will be about a description of the event.
 
+The **[Event Poll](/tutorial-polls/overview)** allows the event to be assigned to a poll.  A poll must be created in advanced of the event.  The poll must be assigned before the event actually starts otherwise the audience will not recieve the polling data. 
 
 
+:::caution
+
+Polls are not designed to change during the event. If you have multiple speakers with different polls, then all the poll item must be in the one poll setup.
+
+:::
 
 
 

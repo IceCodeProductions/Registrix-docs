@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 4
 id: event-date-email
 title: Date Time / Email Section
 ---
