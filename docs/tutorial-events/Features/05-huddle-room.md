@@ -17,6 +17,29 @@ You can allow the attendees to create their own rooms and set the maximum number
 As the admin you can decide if you will build all the rooms & optionally assign lock values. Attendees cannot enter a room without the lock value. To create rooms in advance, go to the Dashboard / Live Events Control Panel / select the event / Click on the Huddle tab.
 
 
+## Firewall Ports Requirements
+
+The following ports must be opened to allow the attendees to access the service;
+
+PORTS:
+
+80 TCP
+
+443 TCP
+
+5349 TCP
+
+3478 UDP
+
+10000-20000 UDP
+
+
+URL: 
+https://huddle1.registrix.io
+
+
+
+
 ## Limitations
 
 There are no background blurs, no file sharing, no controlling what webcam has priority.

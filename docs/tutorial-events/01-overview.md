@@ -16,8 +16,6 @@ From the left side menu, click on **Events**, then click **Manage**.
 
 The manage Events screen is where you configure which event is Main, display to the attendee app, edit, delete, duplicate and send yourself a preview email.
 
-![Docs Version Dropdown](/img/events/events-manage.jpg)
-
 ### Main Check Box
 
 The **Main** checkbox will set the default event to the Attendee.  Without a main the attendee will be display a menu list of events to select to watch.  In order for the attendee to be directed to an event at login, check the box Main on one of the events.  Then click the **Update** button.
@@ -54,4 +52,8 @@ You can create a clone or duplicate of the event by clcikong on the **Paper** ic
 ### Preview Email
 
 Clicking on the **Envelope** icon will allow you to send email previews to an email address to verify that the message you are sending looks proper.  This icon will only appear if you have email templates assigned on the event.
+
+### InPerson Show Id
+
+If you have enabled the InPerson Interactivity the event will then display a Receipt Icon.  Click on this icon and a new window will appear showing you the assigned Show ID of the event as well as the URLS to be used for QR codes or Embeding into other Apps services.
 

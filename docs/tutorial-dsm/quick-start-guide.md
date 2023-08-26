@@ -42,6 +42,12 @@ There is nothing to setup to enable the service.
 
 In all moderator panels in the Dashboard there is a option called **Queue DSM**.  Simply click this link once and the message will be sent into the queue.  If the DSM Moderator hides the message and you want to reshow it, simply repeat the Queue DSM link.
 
+## Audience Reactions
+
+If you are running the audience reactions service, the DSM monitor will not display the reactions while any message is on screen. To return back to the audience reactions, simply remove the On Screen message.
+
+Anytime there is an on screen message, the audience reaction icons will not appear on the screen.
+
 
 ## Getting the DSM URL
 

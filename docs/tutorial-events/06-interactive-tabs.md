@@ -25,6 +25,8 @@ The **Enable Question and Answers** This tab allows the inperson or online atten
 
 **Enable Chat** allows you to use the built in Yatter Chat service or other third party chat services.
 
+The Huddle Room service can only be enabled in the Interactivity Tab if the service is not the Streaming service found in the Video Sources section. If the video source is set to any other type of live stream, then you can enable the **[Huddle Room](/tutorial-events/Features/huddle-room)** tab.
+
 The **Enable Embed** area allows you to paste iframes of third party sites, such as Twitter, Instagram and others.  You should validate the paste by clicking on the **Validate Code** button. Select an **Embed Code Icon** to use when enabling this tab.  This icon will appear in the header of the interactive tab area.
 
 **Enable Audience Reactions** is a way to allow the audience to click 4 different emotional states that allows them to express how they feel about the speaker content.  This toolset attempts to help keep the inperson as well as the online audience engaged with the speaker.

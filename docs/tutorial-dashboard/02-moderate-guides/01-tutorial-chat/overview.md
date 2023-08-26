@@ -1,10 +1,10 @@
 ---
 sidebar_position: 1
 id: overview
-title: Overview
+title: Yatter Chat Overview
 ---
 
-# Overview
+# Yatter Chat Overview
 
 These directions will assist in the development of your event polls.  The concept of the event polls is to gain feedback from both the inperson and online audience at the same time.
 
