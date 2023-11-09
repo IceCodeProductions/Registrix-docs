@@ -1,23 +1,39 @@
-import React from 'react';
 import clsx from 'clsx';
-import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
+import { DocSearch } from '@docsearch/react';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import styles from './index.module.css';
+import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import QuickStartHeader from '@site/src/components/QuickStartHeader';
+
+import Heading from '@theme/Heading';
+import styles from './index.module.css';
+
+import '@docsearch/css';
+
+function Search() {
+  return (
+    <DocSearch
+      appId="YOUR_APP_ID"
+      indexName="YOUR_INDEX_NAME"
+      apiKey="YOUR_SEARCH_API_KEY"
+    />
+  );
+}
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
+        <Heading as="h1" className="hero__title">
+          {siteConfig.title}
+        </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
-            className="button button--success button--lg"
-            to="/intro">
+            className="button button--secondary button--lg"
+            to="/docs/intro">
             All Tutorials
           </Link>
         </div>

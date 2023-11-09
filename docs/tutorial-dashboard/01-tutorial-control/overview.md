@@ -8,7 +8,30 @@ title: Overview
 
 ## Overview
 
-All the moderator features of Registrix are performed by one person per event.  You have different people controlling different events.  All other moderators should use the Moder Event {operation} instead as they where designed to be multi-user.
+All the moderator features of Registrix are performed by one person per event.  You have different people controlling different events.  All other moderators should use the Moderator Event instead as they where designed to be multi-user.
+ 
+## Menu Location
+
+From the left side menu, click on **Dashboard**, then click **Live Events Control Panel**.  Now select the event to moderate. A lower panel of options now appear for this event.
+
+## Operations
+
+The buttons on the top window allow you to work with all the attendees that are logged into this instance of Registrix.  The buttons **BROADCAST ALL** and **SEND TO EVENT ALL** will impact every attendee in any event.
+
+
+### Broadcast All
+
+In order to send a message to all attendees that are currently log into this instance click the **BROADCAST ALL** button at the top of the page.  A window will appear allowing you to enter a message (Do not use any HTML syntax).  You can send with the message a button for the attendees to click if you want to complete a survey at the end of the event.  Enter the button text like "Take Survey Now" and then enter the complete URL including the https://  We strongly recommend that you have tested the URL in advance and copy and paste this into this column.  Click the **Send** button, within 6 seconds all logged in attendees will see this message.
+
+### Send All Attendees to an Event
+
+The ability to send all the attendees no matter what event they are currently watch can be done by clicking the **SEND TO EVENT ALL** button at the top of the screen. Select in the drop down the event that you want them to be sent to.  Then click the **SEND** button.  Over the next 6 seconds all attendees will be at this event.
+
+# Live Event Control Panel
+
+## Overview
+
+All the moderator features of Registrix are performed by one person per event.  You have different people controlling different events.  All other moderators should use the Moderator Event instead as they where designed to be multi-user.
 
 ## Menu Location
 
@@ -30,7 +53,7 @@ The ability to send all the attendees no matter what event they are currently wa
 
 If you have a group permissions setup and attendees assigned to different groups, be sure to send them to an event with their group.  If the attendee is sent to an event that they are not a assigned to, they will not see this event and will instead appear on a page that will list events that they are authorized to attend.
 
-:::
+::: 
 
 ### Send Broadcast Message to just attendees at an event
 
@@ -85,4 +108,4 @@ The blue tab bar allows you to click and work with the data for each of the diff
 
 **[Yatter Chat](/tutorial-dashboard/moderate-guides/tutorial-chat/overview)**
 
-**[DSM](/tutorial-dsm/quick-start-guide)**
+**[DSM](/tutorial-dsm/quick-start-guide)** 

@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Encoder Settings for Registrix IVS
 
-The URL information for the encoder using the Registrix IVS channels is found in the Registrix Vive.  The Registrix IVS live streaming service with the correct settings will allow a 7 to 9 second latency from the source to the player.
+The URL information for the encoder using the Registrix IVS channels is found in the Registrix Vive.  The Registrix IVS live streaming service with the correct settings will allow a 2 to 7 second latency from the source to the player.
 
 After logging into Registrix Vive, click the Account menu option located to the upper right corner and select and then click on Broadcaster.
 
