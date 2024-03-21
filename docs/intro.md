@@ -8,7 +8,26 @@ Welcome to the Registrix Documentation site.  We are happy to help you make your
 
 ## Getting Started
 
-The site is organized by the type of Mode you are running.  This information you can find in your Customization, Settings left side menu
+The site is organized by the type of Mode you are running. 
+
+Lead Capture Mode - The objective of this mode is to capture data points about attendees that arrive at the site. With lead capture there are several different type
+of Attendee Experiences for each event.  These experiences determine how the attendee can login into the event.
+
+- Open Enrollment
+- Approved Participant
+- Skip Data Collection on Existing Participant
+
+
+Authorized Mode - The objective of this mode is to allow only attendees that have been authorized to enter into an event. There are several settings per event that allows the attendees experience to enter an event. The participant record must be active in order to allow access.
+
+- Email
+- Email & Access Code
+- UserId
+- UserId & Access Code
+- eTicket Email
+- eticket Email & Access Code
+- Domain
+- Domain & Access Code
 
 
 ### What you'll need

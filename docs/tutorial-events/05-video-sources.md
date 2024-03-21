@@ -35,10 +35,6 @@ The concept of backup stream to the Registrix platform is to use a complete diff
 
 To enable the backup stream, enable the **Backup Stream** switch.  Follow the same instructions as in the Primary stream and complete the fields.
 
-### Stream in Tab Area
 
-When enabling the **Stream in Tab Area** this will move the video player into the Description area of the Attendee app and allow the video player area to be use for another service as an Embeded code.
-
-This is normally used for gameification type events.  When enabled, the **Main Embed** field opens allowing you to paste in an embed code.  You can test the code by clicking on the **Validate Code** button.
-
+The **Default Tab** allows you to set the tab that the attendee will see when they log into the platform. During the event, a Moderator can choose to change this tab at any time during the live event. The Moderator can change the tab that the attendees are on during the event by using the **[Live Events Control Panel](/tutorial-dashboard/guides/controlpanel)**
 

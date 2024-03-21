@@ -5,35 +5,20 @@ import Link from '@docusaurus/Link';
 
 const FeatureList = [
   {
-    title: 'Lead Generation Setup',
+    title: 'Lead Generation Mode Setup',
     Svg: require('@site/static/img/homepage/lead-capture-200.svg').default,
-    tut_url: '/docs/tutorial-lead/quick-start-guide',
+    tut_url: '/docs/tutorial-lead-capture-mode/quick-start-guide',
   },
   {
-    title: 'Participants Setup',
+    title: 'Authorized Mode Setup',
     Svg: require('@site/static/img/homepage/participant-200.svg').default,
-    tut_url:'/docs/tutorial-participants/quick-start-guide'
-  },
-  {
-    title: 'Email Domain Setup',
-    Svg: require('@site/static/img/homepage/domain-200.svg').default,
-    tut_url: '/docs/tutorial-domain/quick-start-guide',
-  },
-  {
-    title: 'Single Sign On',
-    Svg: require('@site/static/img/homepage/sso-200.svg').default,
-    tut_url: '/docs/tutorial-sso/quick-start-guide',
+    tut_url:'/docs/tutorial-authorized-mode/quick-start-guide'
   },
   {
     title: 'DSM (Down Stage Monitor)',
     Svg: require('@site/static/img/homepage/dsm-service.svg').default,
     tut_url: '/docs/tutorial-dsm/quick-start-guide',
     
-  },
-  {
-    title: 'Video Page',
-    Svg: require('@site/static/img/homepage/video-page-200.svg').default,
-    tut_url: '/docs/tutorial-templates/watch/overview',
   },
 ];
 

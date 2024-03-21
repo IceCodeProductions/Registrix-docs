@@ -1,22 +1,18 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 id: attendee-capture
 title: Capture Attendee Data
 ---
 
 ## Overview
 
-This is where you will setup the data to be capture when an attendee logs into the Attendee app.
+This is where you will setup the data to be capture when an attendee logs into the Attendee application.
 
 ## Menu Location
 
-From the left side menu, click on **Attendees**, then click **Capture Attendee Data Fields**.
+From the left side menu, click on **Attendees**, then click **Capture Attendee Data**.
 
-## Procedure
-
-### Per Site Enabled
-
-You create a different Collection Fields of data capture leads.  You can create as many different Collections as you wish.
+## Procedures
 
 #### New Collection
 

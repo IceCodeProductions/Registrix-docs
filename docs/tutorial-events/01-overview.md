@@ -53,7 +53,7 @@ You can create a clone or duplicate of the event by clcikong on the **Paper** ic
 
 Clicking on the **Envelope** icon will allow you to send email previews to an email address to verify that the message you are sending looks proper.  This icon will only appear if you have email templates assigned on the event.
 
-### InPerson Show Id
+### FHIL Show Id
 
-If you have enabled the InPerson Interactivity the event will then display a Receipt Icon.  Click on this icon and a new window will appear showing you the assigned Show ID of the event as well as the URLS to be used for QR codes or Embeding into other Apps services.
+If you have enabled the FHIL Interactivity the event will then display a Receipt Icon.  Click on this icon and a new window will appear showing you the assigned Show ID of the event as well as the URLS to be used for QR codes or Embeding into other Apps services.
 
